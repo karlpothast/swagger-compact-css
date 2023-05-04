@@ -8,4 +8,17 @@ A compact style sheet for use with .net swashbuckle and other swagger UI impleme
    
 ![image](https://user-images.githubusercontent.com/13120778/236339410-743a712b-9ffa-41e0-b88f-0cb33de2e3fa.png)
 
+# Compact CSS
+![alt-text-2](https://raw.githubusercontent.com/karlpothast/swagger-compact-css/master/compact-swagger-css.png "Compact")
+
+# Default CSS
+![alt-text-1](https://raw.githubusercontent.com/karlpothast/swagger-compact-css/master/default-swagger-css.png "Default")
+
+
+
+
+
+
+
+
 
