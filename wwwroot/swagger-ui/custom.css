@@ -1,0 +1,236 @@
+.swagger-ui .info {
+  margin: 5px 0
+}
+
+.swagger-ui .opblock .opblock-section-header>label>span {
+  padding: 0 5px 0 0
+}
+
+.info {
+  position:absolute;
+  top: 10px;
+  left: 10px;
+  border: 1px solid black;
+  background-color: gainsboro;
+  width: 200px;
+}
+
+.info h2 {
+  font-size: 14pt !important;
+  padding: 2px;
+}
+
+.info span {
+  font-size: 10pt !important;
+  padding: 2px;
+}
+
+.swagger-ui .opblock .tab-header {
+  display: flex;
+  flex: 0;
+}
+
+.swagger-ui .execute-wrapper {
+  padding: 5px;
+  text-align: left
+}
+
+.swagger-ui .execute-wrapper .btn {
+  width: 120px;
+  height: 30px !important;
+  border-radius: 3px;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  min-width: 80px;
+  padding: 6px 0;
+  text-align: center;
+  text-shadow: 0 1px 0 rgba(0,0,0,.1)
+}
+
+.parameters-container {
+  padding: 2px !important;
+  margin: 0;
+}
+
+.opblock-description-wrapper{
+  padding: 5px !important;
+  margin: 0 0 0px;
+}
+
+.swagger-ui .opblock-description-wrapper,.swagger-ui .opblock-external-docs-wrapper,.swagger-ui .opblock-title_normal {
+  color: #3b4151;
+  font-family: sans-serif;
+  font-size: 12px;
+  margin: 0 0 0px;
+  padding: 2px 5px
+}
+
+.swagger-ui .scheme-container {
+  background: #fff;
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,.15);
+  margin: 0 0 10px;
+  padding: 10px 0
+}
+
+.swagger-ui .scheme-container .schemes {
+  align-items: flex-end;
+  display: flex
+}
+
+.opblock-section-header{
+  padding: 5px !important;
+}
+
+.swagger-ui .opblock .opblock-summary-method {
+  background: #000;
+  border-radius: 3px;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  min-width: 120px;
+  padding: 6px 0;
+  text-align: center;
+  text-shadow: 0 1px 0 rgba(0,0,0,.1)
+}
+
+.swagger-ui .btn-group {
+  display: flex;
+  padding: 5px
+}
+
+.swagger-ui .btn-group .btn {
+  flex: 0;
+  min-width: 120px;
+}
+
+.swagger-ui .responses-inner {
+  padding: 2px
+}
+
+.swagger-ui .responses-inner h4,.swagger-ui .responses-inner h5 {
+  color: #3b4151;
+  font-family: sans-serif;
+  font-size: 12px;
+  margin: 0px 0 0px;
+}
+
+.swagger-ui .opblock .opblock-section-header>label>span {
+  padding: 0 5px 0 0
+}
+
+.swagger-ui .opblock .opblock-section-header {
+  align-items: center;
+  background: hsla(0,0%,100%,.8);
+  box-shadow: 0 1px 2px rgba(0,0,0,.1);
+  display: flex;
+  min-height: 25px;
+  padding: 2px 5px
+}
+
+.swagger-ui .opblock .tab-header {
+  display: flex;
+  flex: 0
+}
+
+.swagger-ui .opblock .tab-header .tab-item {
+  cursor: pointer;
+  padding: 0 5px
+}
+
+.swagger-ui .opblock .tab-header .tab-item:first-of-type {
+  padding: 0 5px 0 0
+}
+
+.swagger-ui .try-out__btn {
+  margin-left: 40px;
+  width: 120px;
+}
+
+.renderedMarkdown {
+  font-size: 10pt !important;
+  margin: 0 !important;
+}
+
+.renderedMarkdown p {
+  margin: 0 !important;
+}
+
+.swagger-ui .response-col_links .operation-link .description {
+  margin-bottom: 0;
+}
+
+.swagger-ui .topbar .download-url-wrapper .select-label select {
+  border: 2px solid #62a03f;
+  box-shadow: none;
+  flex: 0;
+  outline: none;
+  width: 250px;
+}
+
+.topbar-wrapper {
+  width: 100%;
+}
+
+.wrapper {
+  margin-left: 200px !important;
+  width: 80% !important;
+}
+
+.swagger-ui .topbar {
+  background: #000000;
+  background: #000000;
+  background: -moz-linear-gradient(left, #000000 0%, #85EA2D 60%);
+  background: -webkit-linear-gradient(left, #000000 0%, #85EA2D 60%);
+  background: -o-linear-gradient(left, #000000 0%, #85EA2D 60%);
+  background: -ms-linear-gradient(left, #000000 0%, #85EA2D 60%);
+  background: linear-gradient(to right, #000000 0%, #85EA2D 60%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$left', endColorstr='$right',GradientType=0 );
+}
+
+.select-label {
+  color: black !important;
+}
+
+
+
+.swagger-ui .auth-wrapper {
+  display: flex;
+  flex: 1;
+  justify-content: flex-start
+}
+
+.swagger-ui .auth-wrapper .authorize {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-right: 20px
+}
+
+.swagger-ui .auth-container {
+  border-bottom: 1px solid #ebebeb;
+  margin: 0 0 10px;
+  padding: 10px 20px
+}
+
+.swagger-ui .auth-container input{
+  width: 325px;
+  font-size: 14px;
+  margin: 2 !important;
+  padding: 2 !important;
+}
+
+.swagger-ui .auth-container:last-of-type {
+  border: 0;
+  margin: 0;
+  padding: 10px 20px
+}
+
+.swagger-ui .authorization__btn {
+  background: none;
+  border: none;
+  padding: 0 0 0 0px;
+  width: 120px;
+}
+
