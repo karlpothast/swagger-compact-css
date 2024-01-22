@@ -16,6 +16,8 @@ A compact swagger stylesheet for use with .net swashbuckle and other swagger UI 
 > All buttons on the left with the info section in a side bar, no wasted white space and this particular response is visible without scrolling down.
 ![alt-text-2](https://raw.githubusercontent.com/karlpothast/swagger-compact-css/master/compact-swagger-css.png "Compact")
 
+# with .NET theme
+![image](https://github.com/karlpothast/swagger-compact-css/assets/13120778/a827234a-db5d-4a55-9489-e218ba329db2)
 
 
 
